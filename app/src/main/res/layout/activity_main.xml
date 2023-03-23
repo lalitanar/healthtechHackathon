@@ -15,19 +15,18 @@
         app:layout_boxedEdges="all">
 
         <TextView
-            android:id="@+id/text"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:gravity="center"
-            android:text="@string/sheetTitle"
-            android:textAlignment="center" />
+            android:id="@+id/textView"
+            android:layout_width="148dp"
+            android:layout_height="47dp"
+            android:gravity="center|top"
+            android:text="@string/hello_world" />
 
         <Button
-            android:id="@+id/submitBtn"
-            android:layout_width="match_parent"
+            android:id="@+id/button"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="100px"
-            android:text="Send Data" />
+            android:layout_marginTop="50dp"
+            android:text="Find BLE" />
 
     </FrameLayout>
 </androidx.wear.widget.BoxInsetLayout>
