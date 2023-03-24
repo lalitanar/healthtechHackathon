@@ -11,7 +11,7 @@ The Health Services API is in beta and is ready for production use.
 1. Download "Measure Data" project from the [Github link](https://github.com/android/health-samples/tree/main/health-services)
 2. Open "Measure Data" project on Android Studio 
 3. Run the application to see the result as the figure below.
-4. 
+
 ![Measure Data Application](https://github.com/lalitanar/healthtechHackathon/blob/HealthServices/pic_hr_01.png)
 
 ## About Android Health Service
