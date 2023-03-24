@@ -10,8 +10,13 @@
 
 ### Install Wear OS Emulator
 - Select at icon "Device Manager"
-  [Device Manager](https://github.com/lalitanar/healthtechHackathon/blob/4ebd0125555b6162b47381bc12fcfee73b34cf49/pic01.png)
--  
+  ![Device Manager](https://github.com/lalitanar/healthtechHackathon/blob/4ebd0125555b6162b47381bc12fcfee73b34cf49/pic01.png)
+-  Select hardware
+   ![Select Hardware]([Device Manager](https://github.com/lalitanar/healthtechHackathon/blob/4ebd0125555b6162b47381bc12fcfee73b34cf49/pic02.png)
+-  Select system image 
+   ![System Image](![Device Manager](https://github.com/lalitanar/healthtechHackathon/blob/4ebd0125555b6162b47381bc12fcfee73b34cf49/pic03.png)
+-  Verify configuration
+   ![Verufy Configuration](![Device Manager](https://github.com/lalitanar/healthtechHackathon/blob/4ebd0125555b6162b47381bc12fcfee73b34cf49/pic04.png)
 
 
 
