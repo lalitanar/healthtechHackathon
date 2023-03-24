@@ -11,7 +11,8 @@ The Health Services API is in beta and is ready for production use.
 1. Download "Measure Data" project from the [Github link](https://github.com/android/health-samples/tree/main/health-services)
 2. Open "Measure Data" project on Android Studio 
 3. Run the application to see the result as the figure below.
-![Measure Data Application]((https://github.com/lalitanar/healthtechHackathon/blob/HealthServices/pic_hr_01.png))
+4. 
+![Measure Data Application](https://github.com/lalitanar/healthtechHackathon/blob/HealthServices/pic_hr_01.png)
 
 ## About Android Health Service
 ### How Health Services helps app developers [2]
@@ -19,6 +20,7 @@ The Health Services API is in beta and is ready for production use.
 Without Health Services, apps must connect to one or multiple sensors, configure each of them appropriately, receive raw sensor data, and use their own algorithms to derive meaningful information. For example, an app might register for updates of Sensor.TYPE_PRESSURE to get the current air pressure, use it to compute the current altitude, and aggregate this data over time to show the elevation changes during a user's activity session.
 
 Health Services automatically configures all fitness and health related sensors appropriately for the use-case, collects sensor data, and computes metrics like heart rate, distance, calories, elevation, floors, speed, pace, and more. Apps can register for this data directly from Health Services.
+
 ![Health Services](https://github.com/lalitanar/healthtechHackathon/blob/HealthServices/pic_hr_02.png)
 
 ### Practice 1
