@@ -10,18 +10,18 @@
 
 ### Install Wear OS Emulator
 - Select at icon "Device Manager"
-  ![Device Manager](https://github.com/lalitanar/healthtechHackathon/blob/4ebd0125555b6162b47381bc12fcfee73b34cf49/pic01.png)
+  ![Device Manager](https://github.com/lalitanar/healthtechHackathon/blob/main/pic01.png)
 -  Select hardware
 -  
-   ![Select Hardware](https://github.com/lalitanar/healthtechHackathon/blob/4ebd0125555b6162b47381bc12fcfee73b34cf49/pic02.png)
+   ![Select Hardware](https://github.com/lalitanar/healthtechHackathon/blob/main/pic02.png)
    
 -  Select system image 
 -  
-   ![System Image](https://github.com/lalitanar/healthtechHackathon/blob/4ebd0125555b6162b47381bc12fcfee73b34cf49/pic03.png)
+   ![System Image](https://github.com/lalitanar/healthtechHackathon/blob/main/pic03.png)
    
 -  Verify configuration
 
-   ![Verify Configuration](https://github.com/lalitanar/healthtechHackathon/blob/4ebd0125555b6162b47381bc12fcfee73b34cf49/pic04.png)
+   ![Verify Configuration](https://github.com/lalitanar/healthtechHackathon/blob/main/pic04.png)
    
 
 ## Special Session 2:  Android & Lab-Kit (Always on Kotlin)
@@ -31,7 +31,7 @@
 1. Go to menu bar and select File -> New -> Import Sample
 2. At "Select a sample to Import", unser the "Wearable" section, Select "Always On Kotlin"
 
-   ![Always On Kotlin]([https://github.com/lalitanar/healthtechHackathon/blob/4ebd0125555b6162b47381bc12fcfee73b34cf49/pic05.png)
+   ![Always On Kotlin](https://github.com/lalitanar/healthtechHackathon/blob/main/pic05.png)
    
 3. Then click "Next" and "Finish"
 4. Wait until the project is succeessfully build.
@@ -41,9 +41,9 @@
 1. At "Select/Debug Configuration", Select "views" at the dropdown
 2. At the "Available Devices", Select Wear OD Rectangular API 30 at the dropdown
 3. Cleck Run button
-4. 
-   ![Run Always On Kotlin](https://github.com/lalitanar/healthtechHackathon/blob/4ebd0125555b6162b47381bc12fcfee73b34cf49/pic06pic06.png)
+4. Run Always On Kotlin
+   ![Run Always On Kotlin](https://github.com/lalitanar/healthtechHackathon/blob/main/pic06.png)
    
-4. See the result on Emulator
-5. 
-   ![Always On Kotlin application](https://github.com/lalitanar/healthtechHackathon/blob/4ebd0125555b6162b47381bc12fcfee73b34cf49/pic06pic07.png)
+
+5. See the result on Emulator
+   ![Always On Kotlin application](https://github.com/lalitanar/healthtechHackathon/blob/main/pic07.png)
