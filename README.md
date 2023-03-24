@@ -2,6 +2,13 @@
 
 ## Special Session 4:  Android & Lab-Kit (Google Sheet)
 
+### Requirement
+- Need to add Google Account from Android Phone/Android Phone Emulator
+- Install Google Play for Android Emulator 
+  - Instruction how to install Playstor on Emulator
+- Install Wear OS on Android Phone/Android Phone Emulator
+- 
+
 ### Google Cloud API Preparation
 - Set the Google Cloud Project
 - Enable Google Sheet API
@@ -56,5 +63,5 @@
 - Update the permission to allow "anyone with link" to be able to edit the sheet.
 - Copy the Sheet ID
 
-References
+## References
 [1] [Setup Google Sheets API for Android (Java/Kotlin)](https://code.luasoftware.com/tutorials/google-sheets-api/setup-google-sheets-api-for-android)
