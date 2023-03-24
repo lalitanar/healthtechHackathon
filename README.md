@@ -63,7 +63,7 @@
 - Create Google sheet according to the figure below
 - Update the permission to allow "anyone with link" to be able to edit the sheet.
 - Copy the Sheet ID
-![Google Sheet](https://github.com/lalitanar/healthtechHackathon/blob/GoogleSheet/pic_gs_01.png?raw=true)
+![Google Sheet](https://github.com/lalitanar/healthtechHackathon/blob/GoogleSheet/pic_gs_01.png)
 
 
 ## Sending static data to Google sheet
@@ -121,7 +121,7 @@
 
 ## Practice 2
 - Send Current Date/Time to the Google Sheet
-![Sheet with current Date/Time](https://github.com/lalitanar/healthtechHackathon/blob/GoogleSheet/pic_gs_01.png?raw=true)
+![Sheet with current Date/Time](https://github.com/lalitanar/healthtechHackathon/blob/GoogleSheet/pic_gs_02.png)
 
 ## References
 [1] [Setup Google Sheets API for Android (Java/Kotlin)](https://code.luasoftware.com/tutorials/google-sheets-api/setup-google-sheets-api-for-android)
