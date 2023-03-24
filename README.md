@@ -8,48 +8,48 @@
 - Set OAUTH 2.0 Authentication
   - Find the package name
   - Use the command below to find SHA1 key from your project
-  '''
-  gradle signingReport
-  
-  RESULT
-  
-  9:57:37 PM: Executing 'signingReport'...
+  ```
+    gradle signingReport
 
-Executing tasks: [signingReport] in project /Users/lalita/Documents/Playground/android-project/MeasureData_HRCond
+    RESULT
+
+    9:57:37 PM: Executing 'signingReport'...
+
+    Executing tasks: [signingReport] in project /Users/lalita/Documents/Playground/android-project/MeasureData_HRCond
 
 
-> Task :app:signingReport
-Variant: debug
-Config: debug
-Store: /Users/lalita/.android/debug.keystore
-Alias: AndroidDebugKey
-MD5: 00:B2:D3:...:E8:F3
-SHA1: 14:35:0...:BC:C7
-SHA-256: 1D:AA:...:D8:23
-Valid until: Wednesday, August 30, 2051
-----------
-Variant: release
-Config: null
-Store: null
-Alias: null
-----------
-Variant: debugAndroidTest
-Config: debug
-Store: /Users/lalita/.android/debug.keystore
-Alias: AndroidDebugKey
-MD5: 00:B2:...:E8:F3
-SHA1: 14:35:...:BC:C7
-SHA-256: 1D:AA:...:5F:D8:23
-Valid until: Wednesday, August 30, 2051
-----------
+    > Task :app:signingReport
+    Variant: debug
+    Config: debug
+    Store: /Users/lalita/.android/debug.keystore
+    Alias: AndroidDebugKey
+    MD5: 00:B2:D3:...:E8:F3
+    SHA1: 14:35:0...:BC:C7
+    SHA-256: 1D:AA:...:D8:23
+    Valid until: Wednesday, August 30, 2051
+    ----------
+    Variant: release
+    Config: null
+    Store: null
+    Alias: null
+    ----------
+    Variant: debugAndroidTest
+    Config: debug
+    Store: /Users/lalita/.android/debug.keystore
+    Alias: AndroidDebugKey
+    MD5: 00:B2:...:E8:F3
+    SHA1: 14:35:...:BC:C7
+    SHA-256: 1D:AA:...:5F:D8:23
+    Valid until: Wednesday, August 30, 2051
+    ----------
 
-BUILD SUCCESSFUL in 3s
-1 actionable task: 1 executed
+    BUILD SUCCESSFUL in 3s
+    1 actionable task: 1 executed
 
-Build Analyzer results available
-9:57:41 PM: Execution finished 'signingReport'.
+    Build Analyzer results available
+    9:57:41 PM: Execution finished 'signingReport'.
 
-  '''
+  ```
   
 ### Google Sheet Preparation
 - Create Google sheet
