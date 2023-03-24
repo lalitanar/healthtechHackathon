@@ -47,3 +47,7 @@
 
 5. See the result on Emulator
    ![Always On Kotlin application](https://github.com/lalitanar/healthtechHackathon/blob/main/pic07.png)
+   
+## References
+- [Keep your app visible on wear](https://developer.android.com/training/wearables/views/always-on)
+- [Always On Kotlin](https://github.com/android/wear-os-samples/tree/master/AlwaysOnKotlin) sample codes on Github
