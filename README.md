@@ -1,6 +1,14 @@
 # Intro Idea Hackathon Challenge by THG x MedINT
 
 ## Special Session 1:  Android & Lab-Kit (Environment setup)
+
+>This section is to prepare the Android Watch development environment.
+>The basic requirement for Wear OS development
+- Android Studio lectric Eel | 2022.1.1 Patch 2
+- Android SDK min version 30 (Android 11)
+
+
+
 - Download [Android Studio Electric Eel | 2022.1.1(Patch2)](https://developer.android.com/studio?gclid=Cj0KCQjwlPWgBhDHARIsAH2xdNfvdH5EMEdGkqUGXwW89EqSO6DGgllXc1X19QPRL1eULS8USLOWCyYaAj1eEALw_wcB&gclsrc=aw.ds)
 - Install Wear OS Emulator: Wear OS Rectangular
   - Select the system image: Android 11.0 (Wear OS 3) 
