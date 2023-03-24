@@ -2,8 +2,8 @@
 
 ## Special Session 1:  Android & Lab-Kit (Environment setup)
 
->This section is to prepare the Android Watch development environment.
->The basic requirement for Wear OS development
+> This section is to prepare the Android Watch development environment.
+### The basic requirement for Wear OS development
 - Android Studio lectric Eel | 2022.1.1 Patch 2
 - Android SDK min version 30 (Android 11)
 
