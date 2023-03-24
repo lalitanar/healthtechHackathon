@@ -23,6 +23,8 @@ Health Services automatically configures all fitness and health related sensors 
 
 ### Practice 1
 Showing the notificatin (TOAST) when the **__heart rate result higher than 70 bpm__**. See the figure below.
+
+
 ![Heart rate > 70](https://github.com/lalitanar/healthtechHackathon/blob/HealthServices/pic_hr_03.png?raw=true)
 
 
