@@ -14,9 +14,9 @@
 -  Select hardware
    ![Select Hardware](https://github.com/lalitanar/healthtechHackathon/blob/4ebd0125555b6162b47381bc12fcfee73b34cf49/pic02.png)
 -  Select system image 
-   ![System Image](![Device Manager](https://github.com/lalitanar/healthtechHackathon/blob/4ebd0125555b6162b47381bc12fcfee73b34cf49/pic03.png)
+   ![System Image](https://github.com/lalitanar/healthtechHackathon/blob/4ebd0125555b6162b47381bc12fcfee73b34cf49/pic03.png)
 -  Verify configuration
-   ![Verufy Configuration](![Device Manager](https://github.com/lalitanar/healthtechHackathon/blob/4ebd0125555b6162b47381bc12fcfee73b34cf49/pic04.png)
+   ![Verufy Configuration](https://github.com/lalitanar/healthtechHackathon/blob/4ebd0125555b6162b47381bc12fcfee73b34cf49/pic04.png)
    
 
 ## Special Session 2:  Android & Lab-Kit (Always on Kotlin)
