@@ -335,15 +335,6 @@ class MainActivity : FragmentActivity(), AmbientModeSupport.AmbientCallbackProvi
 
     //Append data instance to Google Sheet
     private fun appendToSpreadsheet(service: Sheets) {
-        var spreadsheet = Spreadsheet()
-            .setProperties(
-                SpreadsheetProperties()
-                    .setTitle("CreateNewSpreadsheet")
-            )
-        launch(Dispatchers.Default) {
-            spreadsheet = service.spreadsheets().create(spreadsheet).execute()
-            Log.d("TAG:","ID: ${spreadsheet.spreadsheetId.toString()}")
-        }
 
         //Prepare Google Sheet attributes
         val currentInstant = Instant.now(clock)
