@@ -12,8 +12,10 @@
 - Download [Android Studio Electric Eel | 2022.1.1(Patch2)](https://developer.android.com/studio?gclid=Cj0KCQjwlPWgBhDHARIsAH2xdNfvdH5EMEdGkqUGXwW89EqSO6DGgllXc1X19QPRL1eULS8USLOWCyYaAj1eEALw_wcB&gclsrc=aw.ds)
 - Install Wear OS Emulator: Wear OS Rectangular
   - Select the system image: Android 11.0 (Wear OS 3) 
-- Install Android SDK
-  - Android 11.0(R) and Android 13.0 (Tiramisu) 
+- Install Android Phone Emulator: Pixel 6
+  - Select the system image: Android 11.0 (R) (API 30)
+- Install Android SDK: Android 11.0(R) (API 30) 
+  - Select show package detail of Android 11 and install Google Play and Google API
    
 
 ### Install Wear OS Emulator
