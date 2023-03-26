@@ -95,7 +95,7 @@ class MainActivity : Activity(), CoroutineScope by MainScope() {
 
     private fun appendToSpreadsheet(service: Sheets) {
 
-        val spreadsheetId = "1BIpgYdiroSyp028mOfevyz4DNmlhm9x_4pHMkL-QFpc"
+        val spreadsheetId = "1BIpg...QFpc"
         val sheetName = "Sheet1"
         val rows = listOf(listOf("001", "001", "01", "08/03/2023", "78", "90", "1", "0"))
         val valueInputOption = "RAW"
