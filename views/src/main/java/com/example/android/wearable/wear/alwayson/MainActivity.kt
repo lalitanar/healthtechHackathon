@@ -340,7 +340,7 @@ class MainActivity : FragmentActivity(), AmbientModeSupport.AmbientCallbackProvi
         val currentInstant = Instant.now(clock)
         //currentInstant.toEpochMilli()
 
-        val spreadsheetId = "1BIpgYdiroSyp028mOfevyz4DNmlhm9x_4pHMkL-QFpc"
+        val spreadsheetId = "1BIp...QFpc"
         val sheetName = "Sheet1"
         val rows = listOf(listOf(watchId, "test@test.com", bleDeviceName, sendDate_Time, heartRate, batteryLevel, "1", "0"))
         val valueInputOption = "RAW"
